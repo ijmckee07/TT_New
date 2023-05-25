@@ -1,0 +1,21 @@
+.body1{
+    height: 3000px;
+    margin-bottom: 50px;
+}
+.position1{
+    background-color: lightblue;
+    margin-top: 20px;
+}
+.position2{
+    background-color: lightpink;
+    
+}
+.header-line{
+    background-color: black;
+    color: white;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
