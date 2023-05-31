@@ -1,21 +1,41 @@
 .body1{
     height: 3000px;
-    margin-bottom: 50px;
-}
-.position1{
-    background-color: lightblue;
-    margin-top: 20px;
-}
-.position2{
-    background-color: lightpink;
-    
+    padding-top: 40px;
+    padding-left: 80px;
 }
 .header-line{
     background-color: black;
     color: white;
-    height: 40px;
+    height: 38px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
+}
+.position1{
+    background-color: lightblue;
+    margin-top: 20px;
+    height: 300px;
+}
+.position2{
+    background-color: lightpink;
+    margin-top: 20px;
+    height: 300px;
+}
+
+.sidebar{
+    background-color: green;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 40px;
+    margin-right: 10px;
+    width: 72px;
+}
+.button1{
+    color: black;
+    background-color: purple;
+    position: absolute;
+    z-index: 5;
 }
